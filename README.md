@@ -1,7 +1,6 @@
 # best-repo-ever
-
 Welcome to the README file!
 
-Some information...
+Some information.
 
-Ok, bye!
+Ok, see ya, bye!
