@@ -1,5 +1,6 @@
 # best-repo-ever
+Welcome to the README file!
 
-THIS IS DIFFERENT THEN WHAT I DID BEFORE!
+Some information.
 
-Okay, see ya!
+Ok, see ya, bye!
